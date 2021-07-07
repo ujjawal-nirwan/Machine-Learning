@@ -4,7 +4,7 @@ Hello Everyone,
 
 I am not an expert in Machine Learning. I am just a NEWBIE. Just trying to do some practice on some of rare data set.
 All the files which are uploaded contains data  like missing value treatment, outliers treatment, Visualization part. 
-I have attached an HTML file in which you can see the output of .py files(You need to download those to view)
+I have attached an HTML file in which you can see the output of .py files(You need to download those to see)
 
 1. Classification= You will see a file named this in that i have tried to do build model using some classification methods. 
 
