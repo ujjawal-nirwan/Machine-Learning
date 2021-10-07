@@ -16,4 +16,4 @@ after selection
 
 4. Spotify recomendation system: A model is build for recomendation sustem using logistic regression and GridSearchCV
 
-5. Text Analytics amd Model builing : <b> Warning <b/> Requires High end Laptop
+5. Text Analytics amd Model builing : <b> Warning </b> It Requires High end Laptop. Its a large dataset that's why not uploaded. A good project to understand all Process at once.
