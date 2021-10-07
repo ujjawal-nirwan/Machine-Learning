@@ -13,3 +13,7 @@ I have attached an HTML file in which you can see the output of .py files(You ne
 3. HR_Works: In this file a company wants to figure out what is the problem behind joining of candidates as they comes up with some costs and time consumption while conducting Interview
 but some candidates didn't join after clearing all round. They want to figure out from previous records as the candidate having similar qualities will likely to join company or not
 after selection
+
+4. Spotify recomendation system: A model is build for recomendation sustem using logistic regression and GridSearchCV
+
+5. Text Analytics amd Model builing : <b> Warning <b/> Requires High end Laptop
